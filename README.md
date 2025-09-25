@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Ratanak Chhay! 👋
 
-<!--
-**ratanakchhay/ratanakchhay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Student | Aspiring Developer | Always Learning**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+- Currently a student diving deep into software development.
+- Learning slowly, but steadily—every day brings something new!
+- Passionate about building with the **MERN stack** and exploring **JavaScript** & **Python**.
+
+## 🚀 Skills & Tech Stack
+- **Languages:** JavaScript, Python
+- **Frameworks:** MERN (MongoDB, Express, React, Node.js)
+
+## 🌟 Favorite Project
+- [DevConnector-Project](https://github.com/ratanakchhay/DevConnector-Project): My current pride and joy!  
+  Building and connecting developers—check it out!
+
+## 🤝 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/ratanakchhay)
+
+## ⚡ Fun Facts
+- 🏃‍♂️ Love running and hitting the gym
+- 📱 Guilty pleasure: scrolling through TikTok
+
+---
+
+> “Learning slowly.” — That’s my motto. Progress is progress!
+
