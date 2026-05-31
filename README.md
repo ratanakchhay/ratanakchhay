@@ -2,4 +2,5 @@
 
 **Student | Always Learning**
 
-[![My Skills](https://skillicons.dev/icons?i=go,python,dart,ts,java)](https://skillicons.dev)
+**My Playground**
+<img src="https://skillicons.dev/icons?i=go,python,dart,ts,java" height="28" />
